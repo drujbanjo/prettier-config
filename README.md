@@ -1,2 +1,5 @@
-# prettier-config
-my prettier config for quick copying and use
+# prettier-config of drujban
+
+**normal** - .prettierrc
+**jsx** - jsx.prettierrc
+**tailwindcss with jsx** - tw.prettierrc
