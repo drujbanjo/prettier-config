@@ -1,5 +1,5 @@
 # prettier-config of drujban
 
-**normal** - .prettierrc
-**jsx** - jsx.prettierrc
-**tailwindcss with jsx** - tw.prettierrc
+<p>**normal** - .prettierrc</p>
+<p>**jsx** - jsx.prettierrc</p>
+<p>**tailwindcss with jsx** - tw.prettierrc</p>
